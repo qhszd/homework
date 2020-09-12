@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homeworks on 邵吹水&#39;s blog</title>
+    <link>http://example.org/homework/</link>
+    <description>Recent content in Homeworks on 邵吹水&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 16:34:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/homework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用维基百科(Wikipedia)解释名词</title>
+      <link>http://example.org/homework/wiki1/</link>
+      <pubDate>Wed, 09 Sep 2020 16:34:11 +0800</pubDate>
+      
+      <guid>http://example.org/homework/wiki1/</guid>
+      <description>使用维基百科(Wikipedia)解释名词 使用的工具  Google Chrome 用作网页浏览工具 Ghelper 用作访问 en.wikipedia.org 的工具  各名词解释 Computer A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks. A &amp;ldquo;complete&amp;rdquo; computer including the hardware, the operating system (main software), and peripheral equipment required and used for &amp;ldquo;full&amp;rdquo; operation can be referred to as a computer system.</description>
+    </item>
+    
+    <item>
+      <title>软导作业索引页</title>
+      <link>http://example.org/homework/contect/</link>
+      <pubDate>Wed, 09 Sep 2020 16:34:11 +0800</pubDate>
+      
+      <guid>http://example.org/homework/contect/</guid>
+      <description>【19335172】的软导作业索引页 课后作业  使用维基百科(Wikipedia)解释名词 I  实验与实践  我的 Markdown 博客  </description>
+    </item>
+    
+  </channel>
+</rss>
